@@ -7,7 +7,7 @@ about/objective/motivation
 ## Usage
 #### How to launch SMM
 Simple Mind Mapper is a web-based tool, meaning that no lengthy installation process is required! Just
-1. download all of the files then 
+1. download all of the files
 2. open 'index.html' with Google Chrome (currently the only browser supported by SMM).
 
 #### How to interact with SMM

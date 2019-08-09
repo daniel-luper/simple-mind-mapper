@@ -12,7 +12,7 @@ Simple Mind Mapper is a web-based tool, meaning that no lengthy installation pro
 
 #### How to interact with SMM
 ###### The mouse
-- Click in empty space to create new textbox
+- Click in empty space to create a new textbox
 - Click and drag textboxes
 - Ctrl + click and drag textbox to begin new line. Release line over a seperate textbox to complete that line.
 

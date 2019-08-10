@@ -1,5 +1,8 @@
 # To-do list
 
+- [x] Basic functionality
+- [x] Editable text style
+- [x] Upload to GitHub
 - [ ] Fix bug where style and size get reset after creating a new node
 - [ ] Make it so that resizing with the mouse isn't buggy
 - [ ] Make individual connections deletable

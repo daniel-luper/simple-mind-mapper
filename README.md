@@ -24,6 +24,7 @@ Simple Mind Mapper is a web-based tool, meaning that no lengthy installation pro
 - Ctrl + UpArrow, Ctrl + DownArrow changes size of text in selected textbox
 - Ctrl + B will bold text in selected textbox
 - Ctrl + I will italicize text in selected textbox
+- Del will delete selected textbox and all lines connected to it
 
 ## Features
 - [x] Draggable textboxes

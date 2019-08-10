@@ -1,8 +1,9 @@
 # Simple Mind Mapper
-short description
+A simple but flexible web-based tool to visualize relationships between ideas.
 
 ## Motivation
-about/objective/motivation
+Almost all mind mapping software is hierarchy-based, meaning that certain relationships cannot be established (child/child, child/"grandparent", child/"uncle", and so forth). This project aims to provide a simple, easy-to-use, fast alternative which offers that additional flexibility.
+
 
 ## Usage
 #### How to launch SMM
@@ -15,19 +16,20 @@ Simple Mind Mapper is a web-based tool, meaning that no lengthy installation pro
 - Click in empty space to create a new textbox
 - Click and drag textboxes
 - Ctrl + click and drag textbox to begin new line. Release line over a seperate textbox to complete that line.
+- Scrollwheel to move up and down the map
+- Shift + scrollwheel to move left and right over the map
 
 ###### Keyboard shortcuts
-- Ctrl + LeftArrow, Ctrl + RightArrow
-- Ctrl + UpArrow, Ctrl + DownArrow
-- Ctrl + B
-- Ctrl + I
+- Ctrl + LeftArrow, Ctrl + RightArrow changes textbox width
+- Ctrl + UpArrow, Ctrl + DownArrow changes size of text in selected textbox
+- Ctrl + B will bold text in selected textbox
+- Ctrl + I will italicize text in selected textbox
 
 ## Features
-- [x] Create textboxes
-- [x] Create lines
+- [x] Draggable textboxes
+- [x] Connecting lines
+- [x] Editable text style
 - [ ] Save/load maps
-- [ ] Multiple browser support
+- [ ] Cross-browser compatibility
 - [ ] Multiple types of lines
 - [ ] Host the files online so that they can be accessed remotely (as opposed to running them locally)
-
-todo (seperate file)

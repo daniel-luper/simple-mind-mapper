@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+textarea {
+    height:100%;
+    background-color:beige;
+    width:100%;
+    resize:none; border:none;
+    padding:0px; margin:0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    font-size: 16px;
+    font-weight: normal;
+}
+div {
+    padding:0px;
+}

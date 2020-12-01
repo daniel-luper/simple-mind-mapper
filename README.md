@@ -2,7 +2,7 @@
 A simple but flexible web-based tool to visualize relationships between ideas.
 
 ## Motivation
-Almost all mind mapping software is hierarchy-based, meaning that certain relationships cannot be established (child/child, child/"grandparent", child/"uncle", and so forth). This project aims to provide a simple, easy-to-use, fast alternative which offers that additional flexibility.
+Almost all mind mapping software is hierarchy-based, meaning that certain relationships cannot be established (child/child, child/"grandparent", child/"uncle", and so forth). This project aims to provide a simple, easy-to-use, fast alternative which offers additional flexibility.
 
 
 ## Usage

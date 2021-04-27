@@ -1,5 +1,5 @@
 # Simple Mind Mapper
-A simple but flexible web-based tool to visualize relationships between ideas.
+A simple but flexible tool that runs in your web browser and lets you visualize relationships between ideas.
 
 ## Motivation
 Almost all mind mapping software is hierarchy-based, meaning that certain relationships cannot be established (child/child, child/"grandparent", child/"uncle", and so forth). This project aims to provide a simple, easy-to-use, fast alternative which offers additional flexibility.
